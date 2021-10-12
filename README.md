@@ -1,2 +1,3 @@
 # playce-kube-test
-test 
+
+* /nginx - nginx nodeport actvie 
